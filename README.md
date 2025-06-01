@@ -38,4 +38,4 @@ cd python-Squid-Game-simulation
 ```
 3.	Launch the Game:
 ```
-python squid_game.py
+python squidGame.py
