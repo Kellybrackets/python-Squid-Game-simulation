@@ -5,7 +5,7 @@
 [![Python Version](https://img.shields.io/badge/Python-3.8%2B-yellowgreen)](https://www.python.org/)  
 ![GitHub stars](https://img.shields.io/github/stars/Kellybrackets/python-Squid-Game-simulation?style=social)  
 
-![Squid Game Simulator Screenshot](screenshot.png)  
+![Squid Game Simulator Demo](Untitled%20design.gif) 
 
 ---
 
