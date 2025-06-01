@@ -5,7 +5,7 @@
 [![Python Version](https://img.shields.io/badge/Python-3.8%2B-yellowgreen)](https://www.python.org/)  
 ![GitHub stars](https://img.shields.io/github/stars/yourusername/python-Squid-Game-simulation?style=social)  
 
-*(Insert screenshot of the game in action here, e.g., menu screen or Red Light/Green Light gameplay)*  
+![Squid Game Simulator Screenshot](screenshot.png)  
 
 ---
 
@@ -29,5 +29,13 @@ Built entirely with Python's standard library (`random`, `time`, `sys`), it's li
 
 ### Installation  
 1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/python-Squid-Game-simulation.git
+```bash
+git clone https://github.com/yourusername/python-Squid-Game-simulation.git
+```
+2.	Navigate to the project directory:
+```
+cd python-Squid-Game-simulation
+```
+3.	Launch the Game:
+```
+python squid_game.py
