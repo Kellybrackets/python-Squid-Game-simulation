@@ -39,3 +39,31 @@ cd python-Squid-Game-simulation
 3.	Launch the Game:
 ```
 python squidGame.py
+```
+
+## Alternative Installation (ZIP Download)
+
+### Method 1: Using PyCharm (Recommended)
+1. **Download the ZIP**:
+   - Click the green "Code" button on GitHub
+   - Select "Download ZIP"
+   - Extract the files to your preferred location
+
+2. **Open in PyCharm**:
+   ```bash
+   Launch PyCharm → File → Open → Select the extracted folder
+
+**Set up Python interpreter**:
+ ```
+File → Settings → Project → Python Interpreter
+→ Add New Interpreter → Select Python 3.8+
+ ```
+
+**Run the game**:
+
+Right-click squidGame.py → "Run"
+
+Or use the terminal within PyCharm:
+
+```
+python squidGame.py
